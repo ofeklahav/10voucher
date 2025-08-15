@@ -72,7 +72,7 @@ To address this, you have two primary options:
     * Click "Load unpacked".
     * Select the directory where you cloned the repository.
 4.  **Use the Extension:**
-    * Navigate to the Eat website.
+    * Navigate to the "Ten Bis" website.
     * Click the extension icon in your browser's toolbar. The popup will appear, displaying your vouchers.
 
 ## 📄 License
