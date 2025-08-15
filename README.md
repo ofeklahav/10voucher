@@ -1,7 +1,7 @@
 [![logo-info.png](https://i.postimg.cc/NM7Z2S0W/logo-info.png)](https://postimg.cc/gXjgfM8D)
 # Ten Shovar - Ten Bis Voucher Viewer
 
-**Ten Shovar** is a browser extension for Google Chrome and Microsoft Edge that streamlines the process of viewing and managing gift vouchers on the Israeli "Just Eat" (known as Ten Bis) platform. This extension provides an intuitive popup interface directly on the website, solving the limitations of the native voucher display.
+**Ten Shovar** is a browser extension for Google Chrome and Microsoft Edge that streamlines the process of viewing and managing bought vouchers on the Israeli "Just Eat" (known as Ten Bis) platform. This extension provides an intuitive popup interface directly on the website, solving the limitations of the native voucher display.
 
 ![A GIF showing how the extension works](https://media.giphy.com/media/307w0EZMIAJVVHbtEh/giphy.gif)
 
