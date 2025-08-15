@@ -56,7 +56,9 @@ To address this, you have two primary options:
     ```
     msedge.exe --disable-web-security --user-data-dir="C:/EdgeDevSession"
     ```
+
 *Note: `--user-data-dir` specifies a separate user profile to avoid conflicts with your main browser session.*
+
 ## ⚙️ Installation & Usage
 
 1.  **Clone the Repository:**
@@ -70,5 +72,10 @@ To address this, you have two primary options:
     * Click "Load unpacked".
     * Select the directory where you cloned the repository.
 4.  **Use the Extension:**
-    * Navigate to the  Eat website.
+    * Navigate to the Eat website.
     * Click the extension icon in your browser's toolbar. The popup will appear, displaying your vouchers.
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
