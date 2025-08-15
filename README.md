@@ -63,7 +63,7 @@ To address this, you have two primary options:
 
 1.  **Clone the Repository:**
     ```
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/ofeklahav/10voucher.git](https://github.com/ofeklahav/10vocuher.git)
     ```
 2.  **Enable Developer Mode:**
     * Navigate to `chrome://extensions` or `edge://extensions`.
